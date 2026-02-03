@@ -19,7 +19,7 @@ This project is part of a learning exercise to understand:
 - Comparing performance of different ML classifiers
 
 ## Dataset
-- Publicly available dataset or sample data used in the course  
+- Publicly available dataset
 - Contains news articles labeled as `Fake` or `Real`
 
 ## Usage
